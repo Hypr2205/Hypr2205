@@ -1,16 +1,21 @@
-### Hi there 👋
+<h3 align="center">👋   Hello! I'm Khang  👋 <br/> "Tran Do Hoai Khang" </h3>
 
-<!--
-**Krazyguy2205/Krazyguy2205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div id="badges" align="center">
+  <a href="https://twitter.com/K_Momoitaro">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://www.facebook.com/khang.krazyguy.2205/">
+    <img src="https://img.shields.io/badge/Facebook-black?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <br/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+**About Me**
+- Some technologies i enjoy working with include:
+ - Front-end: ReactJs / NextJs / Yew
+ - Back-end: Nodejs
+ - Database: MongoDb / MySQL / MSSQL
+ - Blockchain Foundation: Ethereum Virtual Machine / Near Protocol / Solana / Flow / Aptos(still learning).
+ - Languages: Javascript / **Typescript** / **Rust** / *Move* / *Solidity* / Cadance
+---
