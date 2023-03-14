@@ -1,0 +1,145 @@
+{
+  "breadcrumbs.enabled": false,
+  "window.restoreFullscreen": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "workbench.layoutControl.enabled": false,
+  "workbench.editor.showTabs": false,
+  "window.menuBarVisibility": "compact",
+  "workbench.editor.limit.enabled": true,
+  "workbench.editor.limit.perEditorGroup": true,
+  "workbench.editor.limit.value": 1,
+  "workbench.startupEditor": "none",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "fluent-icons",
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "security.workspace.trust.untrustedFiles": "open",
+
+  "editor.fontFamily": "FantasqueSansMono Nerd Font Mono, Roboto Mono, monospace",
+  "editor.fontLigatures": true,
+  "editor.fontWeight": "bold",
+  "editor.fontSize": 21,
+  "editor.lineHeight": 1.4,
+  "editor.formatOnSave": true,
+  "editor.renderWhitespace": "none",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.autoClosingBrackets": "always",
+  "editor.inlayHints.padding": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.guides.bracketPairs": false,
+  "editor.guides.bracketPairsHorizontal": false,
+  "editor.linkedEditing": true,
+  "editor.suggest.preview": true,
+  "editor.inlayHints.fontSize": 18,
+  "editor.minimap.enabled": false,
+  "editor.letterSpacing": 0.4,
+  "editor.autoClosingQuotes": "always",
+  "editor.wordWrap": "on",
+  "editor.selectionHighlight": false,
+  "editor.renderLineHighlight": "none",
+  "editor.occurrencesHighlight": false,
+  "editor.guides.indentation": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.minimap.renderCharacters": false,
+  "editor.overviewRulerBorder": false,
+  "editor.smoothScrolling": true,
+
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.enableMultiLinePasteWarning": false,
+  "terminal.integrated.lineHeight": 1.4,
+  "terminal.integrated.fontSize": 18,
+
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.singleQuote": true,
+  "[markdown]": {
+    "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
+  },
+
+  "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "javascript.inlayHints.enumMemberValues.enabled": true,
+  "javascript.inlayHints.parameterNames.enabled": "all",
+  "javascript.inlayHints.parameterTypes.enabled": true,
+  "javascript.inlayHints.variableTypes.enabled": true,
+  "javascript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
+  },
+
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "tailwindCSS.experimental.classRegex": ["[a-zA-Z]*class[a-zA-Z]*='([^']+)'"],
+
+  "rust-analyzer.typing.autoClosingAngleBrackets.enable": true,
+
+  "auto-close-tag.activationOnLanguage": [
+    "xml",
+    "php",
+    "blade",
+    "ejs",
+    "jinja",
+    "javascript",
+    "javascriptreact",
+    "typescript",
+    "typescriptreact",
+    "plaintext",
+    "markdown",
+    "vue",
+    "liquid",
+    "erb",
+    "lang-cfml",
+    "cfml",
+    "HTML (EEx)",
+    "HTML (Eex)",
+    "plist"
+  ],
+
+  "solidity.telemetry": true,
+
+  "liveServer.settings.donotShowInfoMsg": true,
+  "liveServer.settings.CustomBrowser": "firefox",
+  "tabnine.experimentalAutoImports": true,
+  "git.autofetch": true,
+  "debug.console.lineHeight": 1.4,
+  "extensions.ignoreRecommendations": false,
+  "redhat.telemetry.enabled": false,
+
+  "workbench.colorCustomizations": {
+    // OverviewRuler
+    "editorOverviewRuler.border": "#0000",
+    /// Search command
+    "editorOverviewRuler.findMatchForeground": "#fff4",
+    "editorOverviewRuler.rangeHighlightForeground": "#0000",
+    "editorOverviewRuler.selectionHighlightForeground": "#0000",
+    "editorOverviewRuler.wordHighlightForeground": "#0000",
+    "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
+    "editorOverviewRuler.modifiedForeground": "#0000",
+    "editorOverviewRuler.addedForeground": "#0000",
+    "editorOverviewRuler.deletedForeground": "#0000",
+    "editorOverviewRuler.bracketMatchForeground": "#0000"
+  },
+  "terminal.integrated.cursorBlinking": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "workbench.activityBar.visible": false
+}
