@@ -1,25 +1,30 @@
 {
-  "breadcrumbs.enabled": false,
   "window.restoreFullscreen": true,
   "explorer.confirmDragAndDrop": false,
   "explorer.confirmDelete": false,
-  "workbench.layoutControl.enabled": false,
-  "workbench.editor.showTabs": false,
-  "window.menuBarVisibility": "compact",
+  "explorer.openEditors.visible": 0,
+  "window.menuBarVisibility": "hidden",
   "workbench.editor.limit.enabled": true,
   "workbench.editor.limit.perEditorGroup": true,
   "workbench.editor.limit.value": 1,
   "workbench.startupEditor": "none",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.productIconTheme": "fluent-icons",
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.sideBar.location": "right",
+  "workbench.activityBar.visible": false,
+  "workbench.colorTheme": "Catppuccin Mocha",
+  "workbench.editor.showTabs": false,
+  "workbench.editor.enablePreview": false,
   "security.workspace.trust.untrustedFiles": "open",
-
-  "editor.fontFamily": "FantasqueSansMono Nerd Font Mono, Roboto Mono, monospace",
-  "editor.fontLigatures": true,
-  "editor.fontWeight": "bold",
-  "editor.fontSize": 21,
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.verticalScrollbarSize": 0,
+  "editor.cursorBlinking": "expand",
+  "editor.fontFamily": "Cascadia Code ,Consolas",
+  "editor.fontLigatures": "'calt','ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+  "editor.fontWeight": "500",
+  "editor.fontSize": 20,
   "editor.lineHeight": 1.4,
+  "editor.tabSize": 1,
   "editor.formatOnSave": true,
   "editor.renderWhitespace": "none",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
@@ -27,14 +32,12 @@
   "editor.scrollbar.vertical": "hidden",
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.autoClosingBrackets": "always",
-  "editor.inlayHints.padding": true,
   "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
   "editor.guides.bracketPairs": false,
-  "editor.guides.bracketPairsHorizontal": false,
+  "editor.guides.bracketPairsHorizontal": true,
   "editor.linkedEditing": true,
   "editor.suggest.preview": true,
   "editor.inlayHints.fontSize": 18,
-  "editor.minimap.enabled": false,
   "editor.letterSpacing": 0.4,
   "editor.autoClosingQuotes": "always",
   "editor.wordWrap": "on",
@@ -47,10 +50,13 @@
   "editor.overviewRulerBorder": false,
   "editor.smoothScrolling": true,
 
+  "zenMode.fullScreen": false,
+  "zenMode.hideLineNumbers": false,
+
   "terminal.integrated.cursorStyle": "line",
   "terminal.integrated.enableMultiLinePasteWarning": false,
   "terminal.integrated.lineHeight": 1.4,
-  "terminal.integrated.fontSize": 18,
+  "terminal.integrated.fontSize": 15,
 
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -67,15 +73,16 @@
   "[javascriptreact]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
   "prettier.singleQuote": true,
   "[markdown]": {
     "editor.defaultFormatter": "DavidAnson.vscode-markdownlint"
   },
 
   "javascript.inlayHints.functionLikeReturnTypes.enabled": true,
-  "javascript.inlayHints.enumMemberValues.enabled": true,
-  "javascript.inlayHints.parameterNames.enabled": "all",
-  "javascript.inlayHints.parameterTypes.enabled": true,
+  "javascript.inlayHints.parameterNames.enabled": "literals",
   "javascript.inlayHints.variableTypes.enabled": true,
   "javascript.preferences.importModuleSpecifier": "non-relative",
   "typescript.preferences.importModuleSpecifier": "non-relative",
@@ -87,9 +94,17 @@
 
   "tailwindCSS.emmetCompletions": true,
   "tailwindCSS.includeLanguages": {
-    "javascript": "javascriptreact"
+    "javascript": "javascriptreact",
+    "typescript": "typescriptreact"
   },
   "tailwindCSS.experimental.classRegex": ["[a-zA-Z]*class[a-zA-Z]*='([^']+)'"],
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "ngClass",
+    ".*Class",
+    ".*ClassName"
+  ],
 
   "rust-analyzer.typing.autoClosingAngleBrackets.enable": true,
 
@@ -118,7 +133,7 @@
   "solidity.telemetry": true,
 
   "liveServer.settings.donotShowInfoMsg": true,
-  "liveServer.settings.CustomBrowser": "firefox",
+  "liveServer.settings.CustomBrowser": "microsoft-edge",
   "tabnine.experimentalAutoImports": true,
   "git.autofetch": true,
   "debug.console.lineHeight": 1.4,
@@ -126,20 +141,36 @@
   "redhat.telemetry.enabled": false,
 
   "workbench.colorCustomizations": {
-    // OverviewRuler
-    "editorOverviewRuler.border": "#0000",
-    /// Search command
-    "editorOverviewRuler.findMatchForeground": "#fff4",
-    "editorOverviewRuler.rangeHighlightForeground": "#0000",
-    "editorOverviewRuler.selectionHighlightForeground": "#0000",
-    "editorOverviewRuler.wordHighlightForeground": "#0000",
-    "editorOverviewRuler.wordHighlightStrongForeground": "#0000",
-    "editorOverviewRuler.modifiedForeground": "#0000",
-    "editorOverviewRuler.addedForeground": "#0000",
-    "editorOverviewRuler.deletedForeground": "#0000",
-    "editorOverviewRuler.bracketMatchForeground": "#0000"
+    "editorInlayHint.background": "#7c7f93"
   },
   "terminal.integrated.cursorBlinking": true,
   "javascript.updateImportsOnFileMove.enabled": "always",
-  "workbench.activityBar.visible": false
+  "diffEditor.ignoreTrimWhitespace": false,
+  "javascript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "typescript.inlayHints.functionLikeReturnTypes.enabled": true,
+  "typescript.inlayHints.propertyDeclarationTypes.enabled": true,
+  "typescript.inlayHints.parameterTypes.enabled": true,
+  "typescript.inlayHints.variableTypes.enabled": true,
+  "editor.inlayHints.padding": true,
+  "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font Mono",
+  "window.commandCenter": false,
+  "workbench.layoutControl.enabled": false,
+  "catppuccin.accentColor": "red",
+  "catppuccin.boldKeywords": false,
+  "highlight-matching-tag.styles": {
+    "opening": {
+      "name": {
+        "highlight": "#04a5e5"
+      }
+    }
+  },
+  "terminal.integrated.cursorWidth": 2,
+  "editor.cursorWidth": 3,
+  "svelte.enable-ts-plugin": true,
+  "breadcrumbs.enabled": false,
+  "breadcrumbs.filePath": "off",
+  "[astro]": {
+    "editor.defaultFormatter": "astro-build.astro-vscode"
+  },
+  "css.lint.unknownAtRules": "ignore"
 }
