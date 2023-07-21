@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/momotarou_dev" target="blank"><img src="https://img.shields.io/twitter/follow/momotarou_dev?logo=twitter&style=for-the-badge" alt="momotarou_dev" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Java Spring, Kotlin**
+- 🌱 I’m currently learning **Flutter, Java Spring, Go**
 
-- 💬 Ask me about **Flutter, Java**
+- 💬 Ask me about **Flutter, Java, Go**
 
 - 📫 How to reach me **procango2003@gmail.com**
 
