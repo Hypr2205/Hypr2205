@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CaChienXuu" alt="momotaro2205" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/CaChienXuu" target="blank"><img src="https://img.shields.io/twitter/follow/momotarou_dev?logo=twitter&style=for-the-badge" alt="momotarou_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Astronaut2205" target="blank"><img src="https://img.shields.io/twitter/follow/momotarou_dev?logo=twitter&style=for-the-badge" alt="astronaut2205" /></a> </p>
 
 - 🌱 I’m currently learning **Flutter, Java Spring, Go**
 
-- 💬 Ask me about **Flutter, Java, Go**
+- 💬 Ask me about **Java, Kotlin, Spring Framework**
 
 - 📫 How to reach me **procango2003@gmail.com**
 
