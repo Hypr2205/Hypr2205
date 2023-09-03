@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Astronaut2205" alt="astronaut2205" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter, Java Spring, Go**
+- 🌱 I’m currently learning **Java Spring Boot, Go**
 
 - 💬 Ask me about **Java, Spring Framework**
 
