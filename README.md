@@ -1,4 +1,4 @@
-<img alt="banner" style="width:100vw" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.printmag.com%2Fdesign-news%2Fsomeone-just-bought-a-gif-for-half-a-million-dollars%2F&psig=AOvVaw3ov0aGen8IRYBMVHBvs9Mi&ust=1711162735377000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJD4m4rwhoUDFQAAAAAdAAAAABAE">
+<img alt="banner" style="width:100vw" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhpbXF4enF3bmEwZDF3ODJ6dnlvMHJvcWdzZWlkcXoxdmU3eHVjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy.gif">
 
 <h1 align="center">Hi 👋, I'm Khang</h1>
 <h3 align="center">A passionate developer from Viet Nam</h3>
