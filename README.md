@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Hypr2205" alt="2205" /></a> </p>
 
-- 🌱 I’m currently learning **Java Spring Boot, Go**
-
-- 💬 Ask me about **Java, Spring Framework**
+- 🌱 I’m currently learning **Java Spring, Go, Docker, K8s, AWS**
 
 - 📫 How to reach me **procango2003@gmail.com**
 
