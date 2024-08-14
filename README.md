@@ -1,4 +1,4 @@
-<img alt="banner" style="width:100vw" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazhpbXF4enF3bmEwZDF3ODJ6dnlvMHJvcWdzZWlkcXoxdmU3eHVjaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bi6RQ5x3tqoSI/giphy.gif">
+<img alt="banner" style="width:100vw" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjg2Zm5rcTlyempycDJwdHN5dXQxYnBmZ3RjcjY0aWdvc3l5ZGNubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/unxCGmTuBvwo2djRLA/giphy.webp">
 
 # 💫 About Me:
 🌱 I’m currently learning:  Go, AWS, K8s, Docker<br>💬 Ask me about: Web Development, Cloud Services<br>
